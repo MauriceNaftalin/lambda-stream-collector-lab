@@ -1,4 +1,4 @@
-### Oracle Code One 2019  Lambda Stream Collector Lab
+### Lambda Stream Collector Lab
 
 #### Introduction
 
