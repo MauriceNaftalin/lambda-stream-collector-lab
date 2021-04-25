@@ -1,4 +1,4 @@
-### Oracle Code One 2019  Lambda Stream Collector Lab
+### Lambda Stream Collector Lab
 
 This is the Java 8 branch. Use it with a version 8 of the JDK. 
 
